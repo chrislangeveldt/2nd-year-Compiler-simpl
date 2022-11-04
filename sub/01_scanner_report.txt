@@ -1,0 +1,32 @@
+================================================================================
+                     RW244: SCANNER SUBMISSION REPORT 2021
+================================================================================
+
+--------------------------------------------------------------------------------
+1. Briefly list any known bugs and limitations in your scanner.
+--------------------------------------------------------------------------------
+
+   None
+
+--------------------------------------------------------------------------------
+2. Describe whatever help you have received from other people.  Write down their
+   names (including the lecturer, demis, classmates, and friends).
+--------------------------------------------------------------------------------
+
+   I received some help understanding when the error "string not closed" is
+   actually triggered, from our lecturer Willem Bester as well as classmate
+   Wicus van der Linden.
+
+--------------------------------------------------------------------------------
+3. Describe any serious problems you have encountered.
+--------------------------------------------------------------------------------
+
+   My biggest problem was wrapping my head around what needed to be done.
+
+--------------------------------------------------------------------------------
+4. Feel free to provide any additional comments.
+--------------------------------------------------------------------------------
+
+   None
+
+================================================================================

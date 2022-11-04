@@ -1,0 +1,44 @@
+================================================================================
+                 RW244: CODE GENERATION SUBMISSION REPORT 2021
+================================================================================
+
+--------------------------------------------------------------------------------
+1. Briefly list any known bugs and limitations in your scanner.
+--------------------------------------------------------------------------------
+
+   It doesn't work if function or procedures are called with variables as
+   arguments.
+
+--------------------------------------------------------------------------------
+2. Describe whatever help you have received from other people.  Write down their
+   names (including the lecturer, demis, classmates, and friends).
+--------------------------------------------------------------------------------
+
+   None
+
+--------------------------------------------------------------------------------
+3. Describe any serious problems you have encountered.
+--------------------------------------------------------------------------------
+
+	For 2 days I had know idea what I was supposed to do.
+
+--------------------------------------------------------------------------------
+4. Feel free to provide any additional comments.
+--------------------------------------------------------------------------------
+
+   I'm tired. Also I marked functions below because it works for some cases.
+
+--------------------------------------------------------------------------------
+5. Please mark each part by an "X" for which you have completed code generation.
+--------------------------------------------------------------------------------
+
+   [X] output
+   [X] input
+   [X] scalar variables
+   [X] arrays
+   [X] expressions
+   [X] if statements
+   [X] while statements
+   [X] functions and procedures
+
+================================================================================

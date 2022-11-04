@@ -1,0 +1,46 @@
+================================================================================
+            RW244: SYMBOL TABLE & TYPE CHECKING SUBMISSION REPORT 2021
+================================================================================
+
+--------------------------------------------------------------------------------
+1. Briefly list any known bugs and limitations in your hash table
+   implementation.
+--------------------------------------------------------------------------------
+
+   None
+
+--------------------------------------------------------------------------------
+2. Briefly list any known bugs and limitations in your symbol table
+   implementation.
+--------------------------------------------------------------------------------
+
+   None. Hopefully
+
+--------------------------------------------------------------------------------
+3. Briefly list any known bugs and limitations in your type checking
+   implementation.
+--------------------------------------------------------------------------------
+
+   Memory leaks.
+
+--------------------------------------------------------------------------------
+4. Describe whatever help you have received from other people.  Write down their
+   names (including the lecturer, demis, classmates, and friends).
+--------------------------------------------------------------------------------
+
+   River Martin made some great test_cases that helped. 
+
+--------------------------------------------------------------------------------
+5. Describe any serious problems you have encountered.
+--------------------------------------------------------------------------------
+
+   It was very difficult and I had to spend way too much time on this, and I am
+   stil not finished with this submission.  It was very difficult to grasp.
+
+--------------------------------------------------------------------------------
+7. Feel free to provide any additional comments.
+--------------------------------------------------------------------------------
+
+   We were thown in the deepend with this one.  Very difficult.
+
+================================================================================

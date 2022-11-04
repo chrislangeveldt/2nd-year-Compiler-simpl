@@ -1,0 +1,13 @@
+To link the the SIMPL vim syntax file to your personal vim configuration (and,
+first, to ensure the necessary directories exist), execute the following on the
+command line (from the current directory):
+
+mkdir -p ~/.vim/syntax && ln -s $PWD/simpl.vim ~/.vim/syntax/
+
+Now, the syntax file is available in your account, but it will not be loaded
+automatically when you open or read an SIMPL file.  Do the following on the
+command line to ensure that the lexer is automatically applied to files with
+the file extension ".simpl":
+
+echo -e '" SIMPL\nau BufRead,BufNewFile *.simpl setfiletype simpl' >> ~/.vimrc
+echo -e 'au FileType simpl set autoindent expandtab softtabstop=4 shiftwidth=4 tabstop=4 textwidth=80' >> ~/.vimrc
